@@ -1,1 +1,1 @@
-test
+modyfikacja po lewo
